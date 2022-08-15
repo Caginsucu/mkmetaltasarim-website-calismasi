@@ -1,0 +1,17 @@
+{
+  "navbar": {
+    "link1": "Startseite",
+    "link2": "Über uns",
+    "link3": {
+      "title": "Dienstleistungen",
+      "alt1": "Raf de",
+      "alt2": "Metal de",
+      "alt3": "Ahşap de"
+    },
+    "link4": "Kontakt"
+  },
+  "footer": {
+    "navtitle": "Navigation"
+  },
+  "contact-link": "Kontakt"
+}

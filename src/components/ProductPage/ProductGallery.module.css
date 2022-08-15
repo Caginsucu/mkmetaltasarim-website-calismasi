@@ -1,0 +1,17 @@
+.galleryWrapper {
+  width: 80%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 3rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 4rem 2rem;
+}
+
+.galleryWrapper img {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+}

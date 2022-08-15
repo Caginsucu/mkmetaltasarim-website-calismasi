@@ -1,0 +1,30 @@
+.productCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  gap: 2rem;
+
+  height: 200px;
+
+  border: 0.1px solid black;
+  cursor: pointer;
+  background-color: #fff;
+  transition: 0.4s ease;
+}
+
+.productCard:hover {
+  background-color: #f3ece5;
+}
+
+.icon {
+  width: 50px;
+  height: 40px;
+  object-fit: contain;
+}
+
+.cardDescription {
+  text-align: center;
+  text-transform: capitalize;
+}

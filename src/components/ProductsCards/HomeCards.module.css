@@ -1,0 +1,8 @@
+.homeCardWrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.homeCard {
+  flex: 1 0 250px;
+}

@@ -1,0 +1,16 @@
+{
+  "hero-title": "Kontakt",
+  "form": {
+    "name": "Name",
+    "mail": "Email",
+    "subject": "Thema",
+    "msg": "Ihre Nachricht",
+    "btn": "Senden"
+  },
+  "contact-section": {
+    "no1": "+90 506 056 43 90",
+    "no2": "+90 888 888 88 88",
+    "email": "info@mkmetaltasarim.com",
+    "address": "Pik dökümcüler sanayi sitesi TEM34 İkitelli binası zemin kat no:107 Başakşehir/ İstanbul"
+  }
+}

@@ -1,0 +1,62 @@
+.contactMain {
+  background-color: #383838;
+  padding: 1rem 0 3rem;
+}
+
+.mapWrapper {
+  width: 90%;
+  margin: 0 auto;
+  margin-bottom: 2rem;
+}
+
+.map {
+  width: 100%;
+}
+
+.formWrapper {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+
+  gap: 0.8rem;
+}
+
+.form input,
+.form textarea {
+  border: 1px solid white;
+  background-color: transparent;
+  color: white;
+  padding: 1rem;
+  outline: none;
+  caret-color: white;
+}
+
+.form textarea {
+  resize: none;
+  height: 200px;
+}
+
+.formBtn {
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+  font-size: 1rem;
+  cursor: pointer;
+  border: none;
+  padding: 1rem;
+  transition: 0.4s ease;
+}
+
+.formBtn:hover {
+  letter-spacing: 0.5rem;
+}
+
+.form input::placeholder,
+.form textarea::placeholder {
+  color: rgba(255, 255, 255, 0.6);
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+}

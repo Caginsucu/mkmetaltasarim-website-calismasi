@@ -1,0 +1,21 @@
+{
+  "hero-title": "Ästhetische Designideen",
+  "homecard": {
+    "card1": "Regalherstellung",
+    "card2": "Rostfreie Türen",
+    "card3": "Rostfreie Geländer",
+    "card4": "Andere Metallverarbeitungen"
+  },
+  "homeabout": {
+    "title": "Über Uns",
+    "content": "Als MK Metal Tasarım bieten wir seit mehr als 5 Jahren Fertigungs-, Montage- und Modifikationsdienstleistungen an. Wir arbeiten mit 100% Kundenzufriedenheit mit unserem Fachpersonal. Seit dem Tag unserer Gründung haben wir vielen Haushalten verschiedene Produktdesigns, Herstellungs- und Montagedienstleistungen angeboten. Wir verbessern uns jeden Tag weiter, um unseren geschätzten Kunden den besten Service zu bieten."
+  },
+  "contactSectionTitle": "Kontakt",
+  "slider": {
+    "title": "Unsere vorgestellten Werke",
+    "item1": "Regalherstellung",
+    "item2": "Rostfreie Türen",
+    "item3": "Rostfreie Geländer",
+    "item4": "Andere Metallverarbeitungen"
+  }
+}

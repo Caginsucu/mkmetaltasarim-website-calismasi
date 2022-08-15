@@ -1,0 +1,21 @@
+{
+  "hero-title": "Aesthetic Design Ideas",
+  "homecard": {
+    "card1": "Shelf Manufacturing",
+    "card2": "Stainless Doors",
+    "card3": "Stainless Railings",
+    "card4": "Other Metal Fabrications"
+  },
+  "homeabout": {
+    "title": "About Us",
+    "content": "As MK Metal Tasarım, we have been providing manufacturing, assembly and modification services for more than 5 years. We work with 100% customer satisfaction with our expert staff. Since the day we were founded, we have provided various product designs, manufacture, and assembly services to many households. We continue to improve ourselves every day to provide the best service to our valued customers."
+  },
+  "contactSectionTitle": "Contact",
+  "slider": {
+    "title": "Our Featured Works",
+    "item1": "Shelf Manufacturing",
+    "item2": "Stainless Doors",
+    "item3": "Stainless Railings",
+    "item4": "Other Metal Fabrications"
+  }
+}

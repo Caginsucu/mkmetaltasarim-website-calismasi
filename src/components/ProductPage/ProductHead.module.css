@@ -1,0 +1,46 @@
+.productHeadWrapper {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 3rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.imgWrapper {
+  text-align: center;
+  min-width: 250px;
+  width: 30%;
+  padding: 0.2rem;
+}
+
+.imgWrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.contentWrapper {
+  color: white;
+  width: 50%;
+  padding: 0;
+}
+
+.contentWrapper p {
+  line-height: 1.3rem;
+  font-weight: 300;
+}
+
+@media screen and (max-width: 759px) {
+  .contentWrapper {
+    width: 90%;
+  }
+
+  .contentWrapper p {
+    text-align: center;
+  }
+}

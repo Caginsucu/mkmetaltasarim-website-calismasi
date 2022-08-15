@@ -1,0 +1,21 @@
+{
+  "hero-title": "Estetik Tasarım Fikirleri",
+  "homecard": {
+    "card1": "Raf İmalatı",
+    "card2": "Paslanmaz Kapılar",
+    "card3": "Paslanmaz Korkuluklar",
+    "card4": "Diğer Metal İmalatlar"
+  },
+  "homeabout": {
+    "title": "Hakkımızda",
+    "content": "Kurulduğumuz günden beri birçok haneye çeşitli ürün tasarımları, imalatı, ve montaj hizmetleri verdik. Siz değerli müşterilerimize en iyi hizmeti vermek için her gün kendimizi geliştirmeye devam ediyoruz.."
+  },
+  "contactSectionTitle": "İletişim",
+  "slider": {
+    "title": "Öne Çıkan Çalışmalarımız",
+    "item1": "Raf İmalatı",
+    "item2": "Paslanmaz Kapılar",
+    "item3": "Paslanmaz Korkuluklar",
+    "item4": "Diğer Metal İmalatlar"
+  }
+}

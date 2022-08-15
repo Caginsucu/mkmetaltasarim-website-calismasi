@@ -1,0 +1,70 @@
+.contactSection {
+  background-color: #383838;
+  color: #fff;
+  padding: 1.5rem 0;
+}
+
+.contactSectionTitle {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 400;
+  letter-spacing: 0.2rem;
+  font-size: 2rem;
+}
+
+.contactContentWrapper {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem 8rem;
+  padding: 3rem 5rem;
+  flex-wrap: wrap;
+}
+
+.contactPhone,
+.contactMail,
+.contactGps {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  flex: 1 0 140px;
+  text-align: center;
+}
+
+.contactPhone h4,
+.contactMail h4,
+.contactGps h4 {
+  font-weight: 300;
+  font-size: 2rem;
+}
+
+.contactPhone a,
+.contactMail a,
+.contactGps a {
+  font-weight: 300;
+}
+
+.contactGps a {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 70px;
+  height: 70px;
+  border-radius: 100%;
+  background-color: #e6e6e6;
+  transition: 0.3s ease;
+}
+
+.contactGps a i {
+  font-size: 2rem;
+  color: #000;
+  transition: 0.4s ease;
+}
+
+.contactGps a:hover {
+  background-color: #000;
+}
+
+.contactGps a:hover i {
+  color: #e6e6e6;
+}

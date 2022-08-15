@@ -1,0 +1,17 @@
+{
+  "navbar": {
+    "link1": "Anasayfa",
+    "link2": "Hakkımızda",
+    "link3": {
+      "title": "Hizmetlerimiz",
+      "alt1": "Raf İmalatı",
+      "alt2": "Metal İmalatı",
+      "alt3": "Ahşap İmalatı"
+    },
+    "link4": "İletişim"
+  },
+  "footer": {
+    "navtitle": "Navigasyon"
+  },
+  "contact-link": "İletişim"
+}
